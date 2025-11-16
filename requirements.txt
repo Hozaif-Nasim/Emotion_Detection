@@ -1,0 +1,29 @@
+tensorflow
+keras
+pandas
+numpy
+jupyter
+notebook
+tqdm
+opencv-contrib-python
+scikit-learn
+
+
+
+
+kaggle-> dataset download 
+
+images                          labels
+images/angry/img1.jpg           angry
+images/angry/img2.jpg           angry
+images/happy/img3.jpg           happy
+images/happy/img4.jpg           happy
+images/sad/img5.jpg             sad
+images/sad/img6.jpg             sad
+images/neutral/img7.jpg         neutral
+images/neutral/img8.jpg         neutral
+images/surprised/img9.jpg       surprised
+images/surprised/img10.jpg      surprised
+
+load_img(img,graysacle=True)
+
